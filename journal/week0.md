@@ -18,4 +18,4 @@
   - Create group, tick AdministratorAccess Policy and click create user group
   - Tick the newly created group under user groups and click next
   - Lastly tag user for resource tracking and create user<br>
-![Example](/images/aws-user.png)
+![Example](../images/aws-user.PNG)
